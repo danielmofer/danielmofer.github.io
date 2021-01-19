@@ -6,7 +6,7 @@ nav_order: 2
 
 # About Rotes Team
 {: .no_toc }
-
+---
 
 I am Daniel Morales (danielmofer), and I do IT Security.
 
@@ -14,6 +14,7 @@ My passion for IT started when I was a kid and my father (a big fan of IT) motiv
 When I was nine years old I got very exited when the Command Prompt pops up on my screen during my first session of Windows XP... and I still get exited every time the reverse shell pops up or the C2 receive the first connection. I would describe to myself as a Penetration Tester with some experience, and I feel lucky when I say that I do not work; companies pay me to do what I love.
 
 If you are reading this looking for some personal information or OSINT task, here you are... I'm venezuelan und Spanish citizen, I speak Spanish (native), Enlgish (C1) und ein bisschen Deutsch (A1). I'm based in Europe.
+
 
 ---
 
