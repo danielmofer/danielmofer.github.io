@@ -1,18 +1,16 @@
 ---
 layout: default
-title: About Me
+title: About
 nav_order: 2
 ---
 
-# Configuration
+# About Rotes Team
 {: .no_toc }
 
 
 About Daniel Morales
 {: .fs-6 .fw-300 }
 
-1. TOC
-{:toc}
 
 ---
 
