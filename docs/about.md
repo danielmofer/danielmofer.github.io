@@ -24,3 +24,6 @@ If you want to get in contact:
 Twitter: [@danielmofer](https://twitter.com/danielmofer)
 LinkedIn: [danielmofer](https://www.linkedin.com/in/danielmofer)
 
+
+
+I also would like to thanks to (Patrick Marsceill)[https://www.thismodernweb.com] for the amazing template.
