@@ -6,6 +6,8 @@ nav_order: 2
 
 ## The author
 
+<img src="/assets/images/danielmofer.jpg">
+
 I am Daniel Morales (danielmofer), and I do IT Security.
 
 My passion for IT started when I was a kid and my father (a big fan of computing) motivated me to get close to computers to talk to them.
