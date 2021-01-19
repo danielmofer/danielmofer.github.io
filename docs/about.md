@@ -26,4 +26,4 @@ LinkedIn: [danielmofer](https://www.linkedin.com/in/danielmofer)
 
 
 
-I also would like to thanks to [Patrick Marsceill](https://www.thismodernweb.com) for the amazing Jekyll template.
+###### I also would like to thanks to [Patrick Marsceill](https://www.thismodernweb.com) for the amazing Jekyll template.
