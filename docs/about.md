@@ -4,10 +4,6 @@ title: About
 nav_order: 2
 ---
 
-# About Rotes Team
-{: .no_toc }
----
-
 ## The author
 I am Daniel Morales (danielmofer), and I do IT Security.
 
