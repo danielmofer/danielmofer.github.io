@@ -5,7 +5,6 @@ nav_order: 2
 ---
 
 ## The author
-<br>
 
 <img src="/assets/images/danielmofer.jpg">
 
