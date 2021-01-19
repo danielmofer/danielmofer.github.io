@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: About Me
 nav_order: 2
 ---
 
@@ -8,20 +8,15 @@ nav_order: 2
 {: .no_toc }
 
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
+About Daniel Morales
 {: .fs-6 .fw-300 }
-
-## Table of contents
-{: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
 ---
 
-
-View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
-
+I am  Senior Penetration Tester.
 
 ## Site logo
 
