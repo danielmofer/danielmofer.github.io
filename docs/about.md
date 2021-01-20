@@ -11,9 +11,9 @@ nav_order: 2
 I am Daniel Morales (danielmofer), and I do IT Security.
 
 My passion for IT started when I was a kid and my father (a big fan of computing) motivated me to get close to computers to talk to them.
-When I was nine years old I got very exited when the [CLI](https://en.wikipedia.org/wiki/Command-line_interface) pop-up on my screen during my first session of Windows XP... and I still get exited every time the reverse shell pop-up or the [C2](https://en.wikipedia.org/wiki/Command_and_control) receive the first connection. I would describe to myself as a [Penetration Tester](https://en.wikipedia.org/wiki/Penetration_test) with some experience, and I feel lucky when I say that I do not work; companies pay me to do what I love.
+When I was nine years old I got very exited when the [CLI](https://en.wikipedia.org/wiki/Command-line_interface) pop-up on my screen during my first session of Windows XP... and I still get exited every time the reverse shell pop-up or the [C2](https://en.wikipedia.org/wiki/Command_and_control) receive the first connection. I would describe to myself as a [Penetration Tester](https://en.wikipedia.org/wiki/Penetration_test) with some experience, and I feel lucky saying that I do not work; companies pay me to do what I love.
 
-If you are reading this looking for some personal information or OSINT task, here you are... I'm venezuelan und Spanish citizen, I speak Spanish (native), Enlgish (C1) und ein bisschen Deutsch (A1). I'm based in Europe.
+If you are reading this looking for some personal information or [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence) task, here you are... I'm venezuelan und Spanish citizen, I speak Spanish (native), English (C1) und ein bisschen Deutsch (A1). I'm based in Europe.
 
 ---
 
