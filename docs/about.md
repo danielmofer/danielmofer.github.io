@@ -19,7 +19,7 @@ If you are reading this looking for some personal information or [OSINT](https:/
 ## About Rotes Team
 
 
-I’m writing this blog in order to fullfil my wish to share my knowledge (I also need some notes that are easy to get whenever I need them and what better way than having and online cheat sheet). So, [Rotes Team](https://de.wikipedia.org/wiki/Red_Team) means [Red Team](https://en.wikipedia.org/wiki/Red_team) in German and it is the precise name which I was looking for for the blog, according with the content that I will post in here. [RotesTeam.com](http://rotesteam.com) is not the blog of a group of people, there is just one author (danielmofer).
+I’m writing this blog in order to fullfil my wish to share my knowledge (I also need some notes that are easy to get whenever I need them and what better way than having and online [cheat sheet](https://en.wikipedia.org/wiki/Cheat_sheet)). So, [Rotes Team](https://de.wikipedia.org/wiki/Red_Team) means [Red Team](https://en.wikipedia.org/wiki/Red_team) in German and it is the precise name which I was looking for for the blog, according with the content that I will post in here. [RotesTeam.com](http://rotesteam.com) is not the blog of a group of people, there is just one author (danielmofer).
 
 Here, I will post writeups, technical research, tools, [PoC](https://en.wikipedia.org/wiki/Proof_of_concept), some stories of my experience and any information related to IT Security (offensive). I hope you like it, and remember that I’m always open to suggestions and criticism.
 
