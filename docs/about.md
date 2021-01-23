@@ -27,5 +27,12 @@ If you want to get in contact:
 Twitter: [@danielmofer](https://twitter.com/danielmofer)
 LinkedIn: [danielmofer](https://www.linkedin.com/in/danielmofer)
 
+---
 
-###### I also would like to thanks to [Patrick Marsceill](https://www.thismodernweb.com) for this amazing Jekyll template (JTD).
+## Dedication
+
+I also would like to dedicate a paragraph to thanks to [Alejandro Betancor](https://www.linkedin.com/in/alejandro-betancor-8054928b/) and [Ignacio García Egea](https://es.linkedin.com/in/nachogarciaegea) (Nacho).
+Alejandro, my good friend is one of the best hackers I have ever know, he built his first tech company at just 12 years old and he's now the CEO of his own company, Gonkar IT Security (IT Consulting, Cloud computing among other services). Ignacio, a great friend on the way, he's an IT Security executive with a technical background as heavy as a Guru and wise as Gandalf the white. I'm thankful to them for keeping me on the right way, motivated a with view always over high goals.
+
+
+I also would like to thanks to [Patrick Marsceill](https://www.thismodernweb.com) for this amazing Jekyll template (JTD).
