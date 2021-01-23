@@ -14,6 +14,10 @@ My passion for IT started when I was a kid and my father (a big fan of computing
 
 If you are reading this looking for some personal information or [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence) task, here you are… I’m Venezuelan and a Spanish citizen, I speak Spanish (native), English (C1) und ein bisschen Deutsch (A2). I’m based in Europe.
 
+If you want to get in contact: 
+Twitter: [@danielmofer](https://twitter.com/danielmofer)
+LinkedIn: [danielmofer](https://www.linkedin.com/in/danielmofer)
+
 ---
 
 ## About Rotes Team
@@ -22,10 +26,6 @@ If you are reading this looking for some personal information or [OSINT](https:/
 I’m writing this blog in order to fullfil my wish to share my knowledge (I also need some notes that are easy to get whenever I need them and what better way than having and online [cheat sheet](https://en.wikipedia.org/wiki/Cheat_sheet)). So, [Rotes Team](https://de.wikipedia.org/wiki/Red_Team) means [Red Team](https://en.wikipedia.org/wiki/Red_team) in German and it is the precise name which I was looking for for the blog, according with the content that I will post in here. [RotesTeam.com](http://rotesteam.com) is not the blog of a group of people, there is just one author (danielmofer).
 
 Here, I will post writeups, technical research, tools, [PoC](https://en.wikipedia.org/wiki/Proof_of_concept), some stories of my experience and any information related to IT Security (offensive). I hope you like it, and remember that I’m always open to suggestions and criticism.
-
-If you want to get in contact: 
-Twitter: [@danielmofer](https://twitter.com/danielmofer)
-LinkedIn: [danielmofer](https://www.linkedin.com/in/danielmofer)
 
 ---
 
