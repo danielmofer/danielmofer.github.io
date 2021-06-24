@@ -1,12 +1,10 @@
 ---
 layout: default
-title: About
+title: OOO
 nav_order: 3
 ---
 
 ## The author
-
-<img src="/assets/images/danielmofer.jpg">
 
 I am Daniel Morales (danielmofer).
 
