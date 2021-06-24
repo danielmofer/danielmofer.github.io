@@ -31,7 +31,7 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 # include: ["docs/tests/"]
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/rotesteam_logo4.png"
+logo: "/assets/images/danielmofer_logo.PNG"
 
 # Enable or disable the site search
 # Supports true (default) or false
