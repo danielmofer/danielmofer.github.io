@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research
+title: Labs
 nav_order: 6
 has_children: true
 ---
