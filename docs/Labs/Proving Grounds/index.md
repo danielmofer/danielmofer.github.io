@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Proving Grounds
+title: Test
 parent: Proving Grounds
 grand_parent: Labs
-permalink: /docs/ui-components/code/line-numbers/
 ---
 
 # Code snippets with line numbers
