@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A day of fame
+title: OSCP Experience
 parent: Blog
 nav_order: 3
 ---
