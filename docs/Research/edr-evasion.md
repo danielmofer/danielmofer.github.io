@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EDR EVasion
+title: EDR Evasion
 parent: Research
 nav_order: 3
 ---
