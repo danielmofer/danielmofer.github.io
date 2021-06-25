@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CVE-2021-35044
+title: A day of fame
 parent: Blog
 nav_order: 2
 ---
