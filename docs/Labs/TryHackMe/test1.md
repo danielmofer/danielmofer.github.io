@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Test22
+title: For Business Reasons
 parent: TryHackMe
 grand_parent: Labs
 ---
 
-# Code snippets with line numbers
+# For Business Reasons
 
 The default settings for HTML compression are incompatible with the HTML
 produced by Jekyll (4.1.1 or earlier) for line numbers from highlighted code
@@ -15,9 +15,23 @@ To avoid non-conforming HTML and unsatisfactory layout, HTML compression
 can be turned off by using the following configuration option:
 
 {% highlight yaml %}
-compress_html:
-  ignore:
-    envs: all
+nmap -Pn -n -p- --min-rate 5000 --open -sV -sC 10.10.52.183
+Host discovery disabled (-Pn). All addresses will be marked 'up' and scan times will be slower.
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-05-06 10:08 EDT
+Nmap scan report for 10.10.52.183
+Host is up (0.051s latency).
+Not shown: 65531 filtered ports, 3 closed ports
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT   STATE SERVICE VERSION
+80/tcp open  http    Apache httpd 2.4.38 ((Debian))
+|_http-generator: WordPress 5.4.2
+| http-robots.txt: 1 disallowed entry 
+|_/wp-admin/
+|_http-server-header: Apache/2.4.38 (Debian)
+|_http-title: MilkCo Test/POC site &#8211; Just another WordPress site
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 42.81 seconds
 {% endhighlight %}
 
 When using Kramdown code fences, line numbers are turned on globally by the
